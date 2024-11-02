@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="tasikmalaya">Tasikmalaya, Jawa Barat</string>
+    <string name="papua">Papua</string>
+    <string name="yogyakarta">DI Yogyakarta</string>
+    <string name="solo">Solo, Jawa Tengah</string>
+    <string name="asmat">Batik Asmat</string>
+    <string name="kawung">Batik Kawung</string>
+    <string name="priyangan">Batik Priyangan</string>
+    <string name="parang">Batik Parang Kusumo</string>
+</resources>
